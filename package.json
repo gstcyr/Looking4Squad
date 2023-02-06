@@ -1,0 +1,13 @@
+{
+  "name": "looking4squad",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Gilles St-Cyr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
